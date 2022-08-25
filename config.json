@@ -1,0 +1,17 @@
+{
+  "ownerNumber": ["6289505054287@s.whatsapp.net"],
+  "ownerName": ["RajaDev"],
+  "botName": "Patrick Store",
+  "buttonName": "Youtube Official",
+  "buttonLink": "https://youtube.com/channel/UCxVf6aARpoMp8w6vh9MKARQ",
+  "buttonName2": "Group",
+  "buttonLink2": "https://chat.whatsapp.com/Ju69dEfjyKn5P6j1Zohk9A",
+  "sessionName": "session",
+  "pathimg": "./media/hitomi.jpg",
+  "gamewaktu": 60,
+  "limitCount": 10,
+  "gcount": {
+	"prem": 99999,
+	"user": 10
+  }
+}
