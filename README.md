@@ -19,8 +19,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/riychdwayne/Hinata-Md.git
-cd Hinata-Md
+git clone https://github.com/Tommylegen/Tommy-Store.git
+cd Tommy-Store
 pkg install yarn
 yarn
 npm start
